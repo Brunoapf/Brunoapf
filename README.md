@@ -1,7 +1,9 @@
 # Bruno De Araújo | Desenvolvedor Fullstack
 <!-- Header Section -->
 ### Hello, welcome to my GitHub! 👋
-I’m Bruno De Araújo, a future full-stack developer with a passion for building efficient, scalable applications and creating amazing user experiences. I work with modern technologies and I’m always looking for new solutions to solve complex problems.
+Hello, welcome to my GitHub! 👋
+I'm Bruno De Araújo, an aspiring full-stack developer passionate about building efficient and scalable applications while creating great user experiences.
+I enjoy working with modern technologies and I'm always looking for new ways to solve complex problems and improve my skills as a developer.
 <img src="https://github.com/Brunoapf/Brunoapf/blob/main/fbc6f31bd3.gif"/>
 
 <!-- Social Media and Contact Links -->
@@ -16,7 +18,7 @@ I’m Bruno De Araújo, a future full-stack developer with a passion for buildin
 ## 🛠️ Tools I Use in My Daily Workflow
 - **IntelliJ & VSCODE**: My favorite development environments 
 - **Git & GitHub**: Version control and project collaboration 
-- **DBeaver & Docker**: To analyze and manage my databases more efficiently
+- **DBeaver & Docker**: Tools I use to run, manage, and analyze databases efficiently.
 
 <!-- Languages Section -->
 ## 💻 Languages

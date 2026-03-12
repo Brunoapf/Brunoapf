@@ -14,9 +14,9 @@ I’m Bruno De Araújo, a future full-stack developer with a passion for buildin
 
 <!-- Tools Section -->
 ## 🛠️ Tools I Use in My Daily Workflow
-- **IntelliJ e VSCODE**: My favorite development environments 
+- **IntelliJ & VSCODE**: My favorite development environments 
 - **Git & GitHub**: Version control and project collaboration 
-- **DBeaver**: To analyze and manage my databases more efficiently
+- **DBeaver & Docker**: To analyze and manage my databases more efficiently
 
 <!-- Languages Section -->
 ## 💻 Languages

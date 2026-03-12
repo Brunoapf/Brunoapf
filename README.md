@@ -1,7 +1,6 @@
 # Bruno De Araújo | Desenvolvedor Fullstack
 <!-- Header Section -->
 ### Hello, welcome to my GitHub! 👋
-Hello, welcome to my GitHub! 👋
 I'm Bruno De Araújo, an aspiring full-stack developer passionate about building efficient and scalable applications while creating great user experiences.
 I enjoy working with modern technologies and I'm always looking for new ways to solve complex problems and improve my skills as a developer.
 <img src="https://github.com/Brunoapf/Brunoapf/blob/main/fbc6f31bd3.gif"/>

@@ -26,29 +26,3 @@ I enjoy working with modern technologies and I'm always looking for new ways to 
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python" />
   </a>
 </p>
-
-<!-- GitHub Stats Section -->
-## GitHub Stats 📊
-<div align="center">
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunoapf&theme=vision_friendly_dark" alt="Profile Summary">
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunoapf&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoapf&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-</td>
-<td>
-  <img width="420em" src="https://streak-stats.demolab.com?user=Brunoapf&theme=highcontrast" alt="Streak Stats"/></td>
-</td>
-</tr>
-</table>
-</div>
-<br/>
